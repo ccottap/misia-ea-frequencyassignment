@@ -8,3 +8,8 @@ This project has the following dependencies:
 * [ea](https://github.com/Bio4Res/ea): evolutionary algorithm library for optimization
 
 Maven users: this dependency is already included in the <code>pom.xml</code> file 
+
+## References
+
+* [FAP web](https://fap.zib.de/) - A website about Frequency Assignment Problems
+
