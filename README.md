@@ -1,3 +1,4 @@
+# misia-ea-frequencyassignment
 Final project for the course on Evolutionary Algorithms of the [Master ISIA](https://www.uma.es/master-en-ingenieria-del-software-e-inteligencia-artificial/) at the University of Málaga
 
 ## Requirements
