@@ -10,7 +10,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /**
- * An instance of the Ferquency Assignment Problem
+ * An instance of the Frequency Assignment Problem
  * 
  * @author ccottap
  * @version 1.0
@@ -182,7 +182,7 @@ public class FrequencyAssignmentProblem {
 	 * @return true if the frequencies can be assigned, false otherwise
 	 */
 	public boolean checkSeparation(int f1, int f2, double distance) {
-		return (distance+ EPSILON) >= getMinimumDistance(Math.abs(f1-f2));
+		return (distance + EPSILON) >= getMinimumDistance(Math.abs(f1-f2));
 	}
 	
 	/**
